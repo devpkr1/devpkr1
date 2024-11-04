@@ -5,7 +5,7 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m currently working as an Associate Data Analyst at <a href="https://www.jgstexfab.com/" target="blank"><img align="center" src="https://static.wixstatic.com/media/a16b08_0d1464ed692d4292a1a3e986365d4ee8~mv2.png/v1/fill/w_980,h_551,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/a16b08_0d1464ed692d4292a1a3e986365d4ee8~mv2.png" alt="PradeepKumar" height="20" width="60" /></a>
+- 🔭 I’m currently working as an Associate Data Analyst at <a href="https://www.jgstexfab.com/" target="blank">JGS TexFab Pvt. Ltd.</a>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
