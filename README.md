@@ -18,9 +18,10 @@
 - 📫 You can reach me on my email id **pradeepinfo.30@gmail.com**
 
 ## `Projects:`
-### [Forecasting CO2 Emissions Deployment](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
-### [Resume Screening and Parser](https://moindalvs-resume-upload-containter-resume-classification-kflzeg.streamlitapp.com/)
-### Resume Classification [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-classification-trail-resume-szy81n.streamlitapp.com/)
+### [Olist Store Performance and Trends](https://app.powerbi.com/view?r=eyJrIjoiYTM5MWFmNmItNzA2Ny00NjJmLThhYmItNjEwMjM1OTVkMGY1IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
+### [EDA of Zomato Restaurants](https://app.powerbi.com/view?r=eyJrIjoiMDY0NmJiN2EtMjJlNC00NWZmLTljMmEtMDE2NTMwYTY4MTczIiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
+### [Analysis of Stock Market Trends](https://app.powerbi.com/view?r=eyJrIjoiZDhlYWIyY2MtZDM1MS00NjMzLWEyYjctYTE0MmI2NWI5ODI5IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
+### Email Marketing Success Prediction [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-classification-trail-resume-szy81n.streamlitapp.com/)
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
@@ -52,12 +53,11 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 ## `Read and catch up on content:`
-- [Statistics for Data Science](https://github.com/MoinDalvs/Learn_stats_for-Data_science/blob/main/README.md) :books:
-- [Gradient Descent article](https://github.com/MoinDalvs/Gradient_Descent_For_beginners/blob/main/README.md) ✍️
-- [Artificial Neural Network article](https://github.com/MoinDalvs/Neural_Networks_From_Scratch/blob/main/README.md) :books:
-- [Time_Series_Forecasting article](https://github.com/MoinDalvs/Time_Series_Forecasting_From_Scratch/blob/main/README.md) ✍️
-- [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
-- [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
+- [From Numbers to Narratives](https://analytixedge.blogspot.com/2024/05/from-numbers-to-narratives-power-of.html) :article:
+- [Emerging Trends in Data Analysis](https://analytixedge.blogspot.com/2024/07/emerging-trends-in-data-analysis.html) ✍️
+- [Classification Models in Machine Learning](https://analytixedge.blogspot.com/2024/11/classification-models-in-machine.html) :article:
+- [Reliable Database Transections](https://www.linkedin.com/pulse/reliable-database-transactions-understanding-acid-concept-kumar-jjxtc?trackingId=lhb0y4ySS%2BmnHoGctf7TcQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B01owR%2F4hRWe8rPmw9zX6fg%3D%3D) ✍️
+- [The Importance of Recall in ML](https://www.linkedin.com/pulse/importance-recall-machine-learning-why-matters-how-improve-kumar-be3sc/?trackingId=lhb0y4ySS%2BmnHoGctf7TcQ%3D%3D) :article:
 
 ## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devpkr1&label=Profile%20views&color=0e75b6&style=circle" alt="devpkr1" width="16%" /> </p>
