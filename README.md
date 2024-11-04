@@ -60,15 +60,15 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 - [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
 
 ## `Github Status:` 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MoinDalvs&label=Profile%20views&color=0e75b6&style=circle" alt="MoinDalvs" width="16%" /> </p>
-<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoinDalvs&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="MoinDalvs" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devpkr1&label=Profile%20views&color=0e75b6&style=circle" alt="devpkr1" width="16%" /> </p>
+<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpkr1&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="devpkr1" />
 </p>
-<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MoinDalvs&show_icons=true&theme=tokyonight"/> </p>
-<p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=MoinDalvs&theme=neon-palenight" width="50%"  alt="streak"> </p>
+<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=devpkr1&show_icons=true&theme=tokyonight"/> </p>
+<p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=devpkr1&theme=neon-palenight" width="50%"  alt="streak"> </p>
 <div align="center">
 <summary>:trophy: Github Profile Trophy</summary>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoinDalvs&show_icons=true&theme=discord" alt="MoinDalvs" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpkr1&show_icons=true&theme=discord" alt="devpkr1" />
 </a> </p>
 
 <div style="align:center;
