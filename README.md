@@ -46,7 +46,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 ## `Connect with me:`
 <p align="left">
 <a href="https://www.linkedin.com/in/pradeep-kumar-1722b6123/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="PradeepKumar" height="50" width="50" /></a>
-<a href="analytixedge.blogspot.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000" alt="PradeepKumar" height="40" width="40" /></a>
+<a href="https://www.analytixedge.blogspot.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000" alt="PradeepKumar" height="40" width="40" /></a>
 <a href="mailto:padeepinfo.30@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
 </p>
 
