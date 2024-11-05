@@ -21,7 +21,7 @@
 ### [Olist Store Performance and Trends](https://app.powerbi.com/view?r=eyJrIjoiYTM5MWFmNmItNzA2Ny00NjJmLThhYmItNjEwMjM1OTVkMGY1IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
 ### [EDA of Zomato Restaurants](https://app.powerbi.com/view?r=eyJrIjoiMDY0NmJiN2EtMjJlNC00NWZmLTljMmEtMDE2NTMwYTY4MTczIiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
 ### [Analysis of Stock Market Trends](https://app.powerbi.com/view?r=eyJrIjoiZDhlYWIyY2MtZDM1MS00NjMzLWEyYjctYTE0MmI2NWI5ODI5IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
-### Email Marketing Success Prediction [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-classification-trail-resume-szy81n.streamlitapp.com/)
+### Email Marketing Success Prediction [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
