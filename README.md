@@ -5,7 +5,7 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m currently working as a Data Science Intern at <a href="https://aivariant.com/" target="blank">Ai Variant</a>
+- 🔭 I’m currently working as a Data Science Fellow at <a href="https://dataplay.co.in/" target="blank">Ai Variant</a>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
