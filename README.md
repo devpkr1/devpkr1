@@ -25,6 +25,7 @@
 ### [Real Vs Fake News Detector](https://github.com/devpkr1/real-vs-fake-news-detector) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pkr1234-real-news-vs-fake-news-detector.hf.space)
 ### [Titanic Survival Prediction](https://github.com/devpkr1/Titanic-Survival-Prediction) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanic-survival-prediction-5fvuepmuuyrwlcygfu4tmx.streamlit.app/)
 ### [Gender Prediction Project](https://github.com/devpkr1/Gender-Prediction-Project) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gender-prediction-project-qtx86cjdjxzzu6yzovwlbe.streamlit.app/)
+### [WordCloud Generator](https://github.com/devpkr1/WordCloud-Generator) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pkr1234-wordcloud-generator.hf.space)
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
