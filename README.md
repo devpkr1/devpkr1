@@ -22,7 +22,7 @@
 ### [EDA of Zomato Restaurants](https://app.powerbi.com/view?r=eyJrIjoiMDY0NmJiN2EtMjJlNC00NWZmLTljMmEtMDE2NTMwYTY4MTczIiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
 ### [Analysis of Stock Market Trends](https://app.powerbi.com/view?r=eyJrIjoiZDhlYWIyY2MtZDM1MS00NjMzLWEyYjctYTE0MmI2NWI5ODI5IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
 ### [Email Marketing Success Prediction](https://github.com/devpkr1/Email-Marketing-Campaign-Project) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://email-marketing-campaign-project-uhvmophdcspc5vkuurjlxf.streamlit.app/)
-### [Real Vs Fake News Detector](https://github.com/devpkr1/real-vs-fake-news-detector).[!Live App](https://pkr1234-real-news-vs-fake-news-detector.hf.space)
+### [Real Vs Fake News Detector](https://github.com/devpkr1/real-vs-fake-news-detector) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pkr1234-real-news-vs-fake-news-detector.hf.space)
 ### [Titanic Survival Prediction](https://github.com/devpkr1/Titanic-Survival-Prediction) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanic-survival-prediction-5fvuepmuuyrwlcygfu4tmx.streamlit.app/)
 ### [Gender Prediction Project](https://github.com/devpkr1/Gender-Prediction-Project) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gender-prediction-project-qtx86cjdjxzzu6yzovwlbe.streamlit.app/)
 
