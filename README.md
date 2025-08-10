@@ -5,7 +5,7 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m currently working as a Data Science Fellow at <a href="https://dataplay.co.in/" target="blank">DataPlay</a>
+- 🔭 I’m currently working as a Data Analyst Consultant at <a href="https://www.quintype.com/" target="blank">Quintype Technologies India Limited</a>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
