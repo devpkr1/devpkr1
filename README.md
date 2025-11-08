@@ -1,4 +1,4 @@
-![Linkedin_Cover_-_Data_Enthusiast_py4mog](https://media.licdn.com/dms/image/v2/D5616AQHmKhDGdr20wQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728303518678?e=1757548800&v=beta&t=2PGKZQYJqQ1e4rUTGczkMzOCbTiy3aBvz6CfSU5D0LU)
+![Linkedin_Cover_-_Data_Enthusiast_py4mog](https://media.licdn.com/dms/image/v2/D5616AQHmKhDGdr20wQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728303518678?e=1764201600&v=beta&t=Qnzpz_yaU-88ARH9QrfJ6ovvjzYwa69vp0drEuPzRds)
 
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
