@@ -213,14 +213,14 @@ Automated presentation generation tool using:
 </tr>
 </table>
 
-![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
-
 ## `Read and catch up on content:`
 - [From Numbers to Narratives](https://analytixedge.blogspot.com/2024/05/from-numbers-to-narratives-power-of.html) :article:
 - [Emerging Trends in Data Analysis](https://analytixedge.blogspot.com/2024/07/emerging-trends-in-data-analysis.html) ✍️
 - [Classification Models in Machine Learning](https://analytixedge.blogspot.com/2024/11/classification-models-in-machine.html) :article:
 - [Reliable Database Transections](https://www.linkedin.com/pulse/reliable-database-transactions-understanding-acid-concept-kumar-jjxtc?trackingId=lhb0y4ySS%2BmnHoGctf7TcQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B01owR%2F4hRWe8rPmw9zX6fg%3D%3D) ✍️
 - [The Importance of Recall in ML](https://www.linkedin.com/pulse/importance-recall-machine-learning-why-matters-how-improve-kumar-be3sc/?trackingId=lhb0y4ySS%2BmnHoGctf7TcQ%3D%3D) :article:
+
+![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 ## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devpkr1&label=Profile%20views&color=0e75b6&style=circle" alt="devpkr1" width="16%" /> </p>
