@@ -222,24 +222,19 @@ Automated presentation generation tool using:
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
-## `Github Status:`
-
+## `Github Status:` 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devpkr1&label=Profile%20views&color=0e75b6&style=circle" alt="devpkr1" width="16%" /> </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=devpkr1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpkr1&layout=compact&theme=tokyonight" />
 </p>
-
+<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=devpkr1&show_icons=true&theme=tokyonight"/> </p>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpkr1&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpkr1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=devpkr1&theme=tokyonight" />
 </p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=devpkr1&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devpkr1&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpkr1&show_icons=true&theme=discord" alt="devpkr1" />
+</a> </p>
 
 <div style="align:center;
             display:fill;
