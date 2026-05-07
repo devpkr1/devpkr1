@@ -128,6 +128,24 @@ Interactive NLP-based WordCloud generation tool for transforming text into visua
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
+## `Currently Building`
+
+### 📄 Resume Suit
+
+AI-powered resume optimization platform focused on:
+
+* ATS improvement
+* smart resume customization
+* AI-assisted resume enhancement
+
+### 📑 PPT Generator
+
+Automated presentation generation tool using:
+
+* AI workflows
+* structured content generation
+* intelligent slide creation
+
 ## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
 <img align="left" alt="Anaconda" height="40" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
@@ -148,9 +166,19 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ## `Connect with me:`
 <p align="left">
-<a href="https://www.linkedin.com/in/pradeep-kumar-data-enthusiast/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="PradeepKumar" height="50" width="50" /></a>
-<a href="https://analytixedge.blogspot.com/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000" alt="PradeepKumar" height="40" width="40" /></a>
-<a href="mailto:padeepinfo.30@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/pradeep-kumar-data-enthusiast/" target="blank">
+<img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="45" width="45" />
+</a>
+
+<a href="https://analytixedge.blogspot.com/" target="blank">
+<img align="center" src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000" height="40" width="40" />
+</a>
+
+<a href="mailto:pradeepinfo.30@gmail.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" height="40" width="40" />
+</a>
+
 </p>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
