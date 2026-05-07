@@ -21,7 +21,57 @@
 
 * 📫 Reach me at **[pradeepinfo.30@gmail.com](mailto:pradeepinfo.30@gmail.com)**
 
+## `Current Focus`
 
+* Building AI-powered products like **Resume Suit** & **PPT Generator**
+* Developing end-to-end **Data Analytics** and **Machine Learning** applications
+* Exploring **LLM workflows, AI automation, and data products**
+* Strengthening expertise in **Python, SQL, Power BI, Azure, and AI systems**
+
+## `Experience`
+
+### Data Analyst Consultant — <a href="https://www.quintype.com/" target="blank">Quintype Technologies India Limited</a>
+
+* Working on data-driven workflows, reporting, and analytics solutions
+* Supporting business decision-making through structured insights
+* Building analytical workflows and improving reporting efficiency
+
+---
+
+### Open Source & Product Contribution
+
+* Early contributor to the **DBCode** VS Code extension ecosystem
+
+* Reported and documented **50+ GitHub issues** covering:
+
+  * bug reports
+  * feature suggestions
+  * UX improvements
+  * workflow enhancements
+
+* Suggested and helped influence the transition of notebook file extensions from **`.dbcode`** to **`.dbcnb`**
+
+* Contributed to:
+
+  * documentation improvements
+  * prerelease testing
+  * developer workflow feedback
+  * product evolution discussions
+ 
+---
+
+### Data Science Intern — <a href="https://aivariant.com/" target="blank">AI Variant</a>
+* Performed data preprocessing and feature engineering in Python, improving machine learning model performance by 20%.
+* Applied and evaluated multiple machine learning algorithms to enhance predictive accuracy and model robustness.
+* Streamlined data preparation and experimentation workflows, reducing model development time by 25%.
+
+---
+
+### Data Analyst Intern — <a href="https://aivariant.com/" target="blank">AI Variant</a>
+* Analyzed large datasets using SQL and Python to identify trends and generate insights that supported data-driven business decisions.
+* Developed interactive dashboards in Power BI and Tableau, automating reporting workflows and reducing manual reporting effort by 30%.
+* Optimized SQL queries and data processing pipelines, improving reporting efficiency and enabling faster access to business metrics.
+ 
 ## `Projects:`
 ### [Olist Store Performance and Trends](https://app.powerbi.com/view?r=eyJrIjoiYTM5MWFmNmItNzA2Ny00NjJmLThhYmItNjEwMjM1OTVkMGY1IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
 
