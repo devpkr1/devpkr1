@@ -191,11 +191,27 @@ Automated presentation generation tool using:
 
 ## `Connect with me:`
 
-<p align="left">
-<a href="https://www.linkedin.com/in/pradeep-kumar-data-enthusiast/" target="blank"><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="45" width="45"/></a>
-<a href="https://analytixedge.blogspot.com/" target="blank"><img src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000" height="40" width="40"/></a>
-<a href="mailto:pradeepinfo.30@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" height="40" width="40"/></a>
-</p>
+<table>
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/pradeep-kumar-data-enthusiast/" target="_blank">
+<img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="45" width="45"/>
+</a>
+</td>
+
+<td>
+<a href="https://analytixedge.blogspot.com/" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000" height="40" width="40"/>
+</a>
+</td>
+
+<td>
+<a href="mailto:pradeepinfo.30@gmail.com">
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" height="40" width="40"/>
+</a>
+</td>
+</tr>
+</table>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
