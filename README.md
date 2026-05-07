@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">Data Analyst | AI & Product Enthusiast | Open Source Contributor</h3>
 
-## 🚀 `About Me:`
+## `About Me:`
 
 * 🌱 I believe learning is a continuous process and enjoy exploring new technologies, products, and ideas
 
