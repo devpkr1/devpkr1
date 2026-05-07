@@ -236,7 +236,7 @@ Automated presentation generation tool using:
   <img src="https://streak-stats.demolab.com?user=devpkr1&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Profile Trophy
+## `GitHub Profile Trophy`
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devpkr1&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
