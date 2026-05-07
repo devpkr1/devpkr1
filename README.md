@@ -24,13 +24,77 @@
 
 ## `Projects:`
 ### [Olist Store Performance and Trends](https://app.powerbi.com/view?r=eyJrIjoiYTM5MWFmNmItNzA2Ny00NjJmLThhYmItNjEwMjM1OTVkMGY1IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
+
+Power BI dashboard analyzing:
+
+* sales performance
+* customer behavior
+* order trends
+* business insights
+
+**Tech Stack:** Power BI • Excel • Data Analytics
+
+---
+
 ### [EDA of Zomato Restaurants](https://app.powerbi.com/view?r=eyJrIjoiMDY0NmJiN2EtMjJlNC00NWZmLTljMmEtMDE2NTMwYTY4MTczIiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
+
+Exploratory Data Analysis project focused on:
+
+* restaurant trends
+* ratings analysis
+* pricing insights
+* customer preferences
+
+**Tech Stack:** Python • Power BI • Pandas • Data Visualization
+
+---
+
 ### [Analysis of Stock Market Trends](https://app.powerbi.com/view?r=eyJrIjoiZDhlYWIyY2MtZDM1MS00NjMzLWEyYjctYTE0MmI2NWI5ODI5IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
+
+Interactive stock market trend analysis and visualization project.
+
+**Tech Stack:** Python • Power BI • Financial Data Analysis
+
+---
+
 ### [Email Marketing Success Prediction](https://github.com/devpkr1/Email-Marketing-Campaign-Project) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://email-marketing-campaign-project-uhvmophdcspc5vkuurjlxf.streamlit.app/)
+
+Machine learning application predicting email campaign success using customer engagement metrics.
+
+**Tech Stack:** Python • Scikit-learn • Pandas • Streamlit
+
+---
+
 ### [Real Vs Fake News Detector](https://github.com/devpkr1/real-vs-fake-news-detector) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pkr1234-real-news-vs-fake-news-detector.hf.space)
+
+NLP-based fake news classification system with live deployment.
+
+**Tech Stack:** Python • NLP • Machine Learning • Streamlit
+
+---
+
 ### [Titanic Survival Prediction](https://github.com/devpkr1/Titanic-Survival-Prediction) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanic-survival-prediction-5fvuepmuuyrwlcygfu4tmx.streamlit.app/)
+
+Machine learning model predicting passenger survival outcomes using classification algorithms.
+
+**Tech Stack:** Python • Scikit-learn • Streamlit • Data Analysis
+
+---
+
 ### [Gender Prediction Project](https://github.com/devpkr1/Gender-Prediction-Project) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gender-prediction-project-qtx86cjdjxzzu6yzovwlbe.streamlit.app/)
+
+Interactive machine learning application for gender prediction with live deployment.
+
+**Tech Stack:** Python • Machine Learning • Streamlit • Pandas
+
+---
+
 ### [WordCloud Generator](https://github.com/devpkr1/WordCloud-Generator) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pkr1234-wordcloud-generator.hf.space)
+
+Interactive NLP-based WordCloud generation tool for transforming text into visual insights.
+
+**Tech Stack:** Python • NLP • Streamlit • WordCloud
+
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
