@@ -1,21 +1,26 @@
 ![Linkedin_Cover_-_Data_Enthusiast_py4mog](https://media.licdn.com/dms/image/v2/D5616AQHmKhDGdr20wQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728303518678?e=1764201600&v=beta&t=Qnzpz_yaU-88ARH9QrfJ6ovvjzYwa69vp0drEuPzRds)
 
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">Data Analyst | AI & Product Enthusiast | Open Source Contributor</h3>
 
-- 🌱 I love learning as a process and mostly about new things...
+# 🚀 About Me
 
-- 🔭 I’m currently working as a Data Analyst Consultant at <a href="https://www.quintype.com/" target="blank">Quintype Technologies India Limited</a>
+* 🌱 I believe learning is a continuous process and enjoy exploring new technologies, products, and ideas
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+* 🔭 Currently working as a Data Analyst Consultant at <a href="https://www.quintype.com/" target="blank">Quintype Technologies India Limited</a>
 
-- 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
+* 🚀 Building AI-powered products like **Resume Suit** & **PPT Generator**
 
-- 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
+* 🧠 Exploring **Machine Learning, Deep Learning, LLM workflows, AI Automation, and Data Products**
 
-- 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, Artificial intellegence and Deep learning**
+* 🤝 Open to collaborating on **Data Science, Analytics, AI, and Product-focused projects**
 
-- 📫 You can reach me on my email id **pradeepinfo.30@gmail.com**
+* 📊 Ask me about **Python, SQL, Power BI, Machine Learning, Data Analytics, and AI tools**
+
+* ⚡ Strengthening expertise in **Python, Tableau, MySQL, Azure, Apache Spark, Hadoop, and Artificial Intelligence**
+
+* 📫 Reach me at **[pradeepinfo.30@gmail.com](mailto:pradeepinfo.30@gmail.com)**
+
 
 ## `Projects:`
 ### [Olist Store Performance and Trends](https://app.powerbi.com/view?r=eyJrIjoiYTM5MWFmNmItNzA2Ny00NjJmLThhYmItNjEwMjM1OTVkMGY1IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
