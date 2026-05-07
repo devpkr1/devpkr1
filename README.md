@@ -36,8 +36,6 @@
 * Supporting business decision-making through structured insights
 * Building analytical workflows and improving reporting efficiency
 
----
-
 ### Open Source & Product Contribution
 
 * Early contributor to the **DBCode** VS Code extension ecosystem
@@ -57,15 +55,11 @@
   * prerelease testing
   * developer workflow feedback
   * product evolution discussions
- 
----
 
 ### Data Science Intern — <a href="https://aivariant.com/" target="blank">AI Variant</a>
 * Performed data preprocessing and feature engineering in Python, improving machine learning model performance by 20%.
 * Applied and evaluated multiple machine learning algorithms to enhance predictive accuracy and model robustness.
 * Streamlined data preparation and experimentation workflows, reducing model development time by 25%.
-
----
 
 ### Data Analyst Intern — <a href="https://aivariant.com/" target="blank">AI Variant</a>
 * Analyzed large datasets using SQL and Python to identify trends and generate insights that supported data-driven business decisions.
@@ -84,8 +78,6 @@ Power BI dashboard analyzing:
 
 **Tech Stack:** Power BI • Excel • Data Analytics
 
----
-
 ### [EDA of Zomato Restaurants](https://app.powerbi.com/view?r=eyJrIjoiMDY0NmJiN2EtMjJlNC00NWZmLTljMmEtMDE2NTMwYTY4MTczIiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
 
 Exploratory Data Analysis project focused on:
@@ -97,15 +89,11 @@ Exploratory Data Analysis project focused on:
 
 **Tech Stack:** Python • Power BI • Pandas • Data Visualization
 
----
-
 ### [Analysis of Stock Market Trends](https://app.powerbi.com/view?r=eyJrIjoiZDhlYWIyY2MtZDM1MS00NjMzLWEyYjctYTE0MmI2NWI5ODI5IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
 
 Interactive stock market trend analysis and visualization project.
 
 **Tech Stack:** Python • Power BI • Financial Data Analysis
-
----
 
 ### [Email Marketing Success Prediction](https://github.com/devpkr1/Email-Marketing-Campaign-Project) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://email-marketing-campaign-project-uhvmophdcspc5vkuurjlxf.streamlit.app/)
 
@@ -113,15 +101,11 @@ Machine learning application predicting email campaign success using customer en
 
 **Tech Stack:** Python • Scikit-learn • Pandas • Streamlit
 
----
-
 ### [Real Vs Fake News Detector](https://github.com/devpkr1/real-vs-fake-news-detector) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pkr1234-real-news-vs-fake-news-detector.hf.space)
 
 NLP-based fake news classification system with live deployment.
 
 **Tech Stack:** Python • NLP • Machine Learning • Streamlit
-
----
 
 ### [Titanic Survival Prediction](https://github.com/devpkr1/Titanic-Survival-Prediction) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanic-survival-prediction-5fvuepmuuyrwlcygfu4tmx.streamlit.app/)
 
@@ -129,15 +113,11 @@ Machine learning model predicting passenger survival outcomes using classificati
 
 **Tech Stack:** Python • Scikit-learn • Streamlit • Data Analysis
 
----
-
 ### [Gender Prediction Project](https://github.com/devpkr1/Gender-Prediction-Project) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gender-prediction-project-qtx86cjdjxzzu6yzovwlbe.streamlit.app/)
 
 Interactive machine learning application for gender prediction with live deployment.
 
 **Tech Stack:** Python • Machine Learning • Streamlit • Pandas
-
----
 
 ### [WordCloud Generator](https://github.com/devpkr1/WordCloud-Generator) [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pkr1234-wordcloud-generator.hf.space)
 
