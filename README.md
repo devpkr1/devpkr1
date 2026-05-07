@@ -190,6 +190,59 @@ Automated presentation generation tool using:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="45" height="45"/>
 </p>
 
+# 🧰 Tools & Technologies
+
+## 👨‍💻 Languages & Databases
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" alt="sql" width="45" height="45"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019_present.svg" alt="excel" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 Data Visualization & Analytics
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="powerbi" width="50" height="50"/> &nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tableau" width="45" height="45"/>
+</p>
+
+---
+
+## 🤖 Machine Learning & AI
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
+</p>
+
+---
+
+## ☁️ Cloud & Big Data
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="45"/> &nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/94888819/179532814-fa9beb8f-0fd6-4160-8d47-650af59c58a1.png" alt="hadoop" width="45" height="45"/>
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" alt="github" width="50" height="50"/> &nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/94888819/179420219-9ce785fd-b1eb-4caa-aebd-086c088d05f2.png" alt="vscode" width="55" height="40"/> &nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/94888819/179537708-2241ab23-8c86-40c6-8fa9-f3979be75ade.png" alt="jupyter" width="50" height="50"/> &nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/94888819/179422108-0108ecc4-96d4-4a9f-93d2-f4f2ea98688e.png" alt="streamlit" width="45" height="50"/> &nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/94888819/179536543-d438fb65-8501-475d-9f8b-5bbc18bab86a.png" alt="pycharm" width="45" height="45"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="45" height="45"/>
+</p>
+
+
 ## `Connect with me:`
 <p align="left">
 
