@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allows manual trigger
 
 permissions:
-  contents: write # Crucial for actions to commit files back to your repo
+  contents: write # Grants permissions to update your branch files
 
 jobs:
   build:
@@ -15,33 +15,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Step 1: Generate your profile summary status cards 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      # Step 1: Generate your profile summary panels cleanly
+      - name: Generate Status Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           username: devpkr1
 
-      # Step 2: Set up runtime engine for the trophy script
-      - name: Setup Deno Environment
-        uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
-
-      # Step 3: Clone krishyadav90's repository and run it locally
-      - name: Compile Profile Trophies SVG
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 2: Download the trophies as a local file without push collision errors
+      - name: Fetch Gaming Trophies Asset
         run: |
-          git clone https://github.com trophy-generator
-          cd trophy-generator
-          deno run --allow-net --allow-read --allow-write main.ts --username=devpkr1 --theme=darkhub --column=6 --output=../trophy.svg
+          curl -o trophy.svg "https://vercel.app"
 
-      # Step 4: Safely push the newly generated trophy to your repo root
-      - name: Commit and Push Trophy File
+      # Step 3: Securely commit and push all newly generated assets in one go
+      - name: Save Assets to Repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
-          git diff-index --quiet HEAD || git commit -m "Update gaming trophies svg"
+          git diff-index --quiet HEAD || git commit -m "Synchronize profile cards and trophies"
           git push origin main
