@@ -236,7 +236,7 @@ Automated presentation generation tool using:
 ## `GitHub Profile Trophy`
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=devpkr1)](https://github.com/devpkr1/github-profile-trophy)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=devpkr1E&theme=radical&no-frame=true&margin-w=15)
 </p>
 
 **<h2>♡ Thank you for taking the time ♡**
