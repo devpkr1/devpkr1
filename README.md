@@ -236,7 +236,7 @@ Automated presentation generation tool using:
 ## `GitHub Profile Trophy`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devpkr1&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 **<h2>♡ Thank you for taking the time ♡**
