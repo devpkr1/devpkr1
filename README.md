@@ -258,9 +258,4 @@ Automated presentation generation tool using:
 </div>
 
 
-## `GitHub Profile Trophy`
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=devpkr1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 **<h2>♡ Thank you for taking the time ♡**
