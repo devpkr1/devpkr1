@@ -1,4 +1,4 @@
-name: GitHub Profile Trophies Generator
+name: GitHub Profile Summary Cards & Trophies
 
 on:
   schedule:
@@ -6,35 +6,42 @@ on:
   workflow_dispatch: # Allows manual trigger
 
 permissions:
-  contents: write # Grants direct permission to write to your branch
+  contents: write # Crucial for actions to commit files back to your repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate Profile Trophies
+    name: Generate Profile Metrics
     steps:
       - uses: actions/checkout@v4
 
-      # Sets up the execution environment needed for the script
+      # Step 1: Generate your profile summary status cards 
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: devpkr1
+
+      # Step 2: Set up runtime engine for the trophy script
       - name: Setup Deno Environment
         uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
 
-      # Clones the original repo and runs the exact render engine locally
+      # Step 3: Clone krishyadav90's repository and run it locally
       - name: Compile Profile Trophies SVG
         env:
-          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git clone https://github.com trophy-generator
           cd trophy-generator
-          deno run --allow-net --allow-read --allow-write src/render_svg.ts --username=devpkr1 --theme=darkhub --column=6 --output=../trophy.svg
+          deno run --allow-net --allow-read --allow-write main.ts --username=devpkr1 --theme=darkhub --column=6 --output=../trophy.svg
 
-      # Secure native Git push without relying on broken marketplace plugins
-      - name: Push Trophy Image to Repository
+      # Step 4: Safely push the newly generated trophy to your repo root
+      - name: Commit and Push Trophy File
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@://github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
-          git diff-index --quiet HEAD || git commit -m "Update gaming profile trophies"
+          git diff-index --quiet HEAD || git commit -m "Update gaming trophies svg"
           git push origin main
