@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allows manual trigger
 
 permissions:
-  contents: write # Crucial for pushing the image back
+  contents: write # Grants direct permission to write to your branch
 
 jobs:
   build:
@@ -30,9 +30,11 @@ jobs:
           cd trophy-generator
           deno run --allow-net --allow-read --allow-write src/render_svg.ts --username=devpkr1 --theme=darkhub --column=6 --output=../trophy.svg
 
-      # This separate action block pushes the image cleanly without conflicts
-      - name: Deploy Trophy to Repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
+      # Secure native Git push without relying on broken marketplace plugins
+      - name: Push Trophy Image to Repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add trophy.svg
+          git diff-index --quiet HEAD || git commit -m "Update gaming profile trophies"
+          git push origin main
