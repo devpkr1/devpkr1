@@ -1,4 +1,4 @@
-![Linkedin Cover](https://media.licdn.com/dms/image/v2/D5616AQHmKhDGdr20wQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728303518678?e=1779926400&v=beta&t=O-PSKcsooYdMoAq7TWdYVytoiSSjzng8cUE4Tk2sSrM)
+![Linkedin Cover](https://media.licdn.com/dms/image/v2/D5616AQHmKhDGdr20wQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728303518678?e=1787184000&v=beta&t=JLZ7PoUlijdxlTDo8OqjvxtzlUwotIC7molPFsLkVo0)
 
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">Data Analyst | AI & Product Enthusiast | Open Source Contributor</h3>
@@ -7,7 +7,7 @@
 
 * 🌱 I believe learning is a continuous process and enjoy exploring new technologies, products, and ideas
 
-* 🔭 Currently working as a Data Analyst Consultant at <a href="https://www.quintype.com/" target="blank">Quintype Technologies India Limited</a>
+* 🔭 Currently working as a Data Analyst at <a href="https://truebluedesignsolutions.com/" target="blank">TrueBlue IT Consulting Services Pvt. Ltd.</a>
 
 * 🚀 Building AI-powered products like **Resume Suit** & **PPT Generator**
 
@@ -30,11 +30,18 @@
 
 ## `Experience`
 
-### Data Analyst Consultant — <a href="https://www.quintype.com/" target="blank">Quintype Technologies India Limited</a>
+### Data Analyst — <a href="https://truebluedesignsolutions.com/" target="blank">TrueBlue IT Consulting Services Pvt. Ltd.</a>
 
 * Working on data-driven workflows, reporting, and analytics solutions
 * Supporting business decision-making through structured insights
 * Building analytical workflows and improving reporting efficiency
+
+### MIS Executive — <a href="https://truebluedesignsolutions.com/" target="blank">TrueBlue IT Consulting Services Pvt. Ltd.</a>
+
+* Prepared daily, weekly, and monthly MIS reports using Advanced Excel and SQL.
+* Consolidated and validated employee, project, revenue, and operational data.
+* Automated recurring reports using Power Query, Pivot Tables, XLOOKUP, and Excel formulas.
+* Standardized reporting templates to improve accuracy and reporting efficiency.
 
 ### Open Source & Product Contribution
 
@@ -55,16 +62,6 @@
   * prerelease testing
   * developer workflow feedback
   * product evolution discussions
-
-### Data Science Intern — <a href="https://aivariant.com/" target="blank">AI Variant</a>
-* Performed data preprocessing and feature engineering in Python, improving machine learning model performance by 20%.
-* Applied and evaluated multiple machine learning algorithms to enhance predictive accuracy and model robustness.
-* Streamlined data preparation and experimentation workflows, reducing model development time by 25%.
-
-### Data Analyst Intern — <a href="https://aivariant.com/" target="blank">AI Variant</a>
-* Analyzed large datasets using SQL and Python to identify trends and generate insights that supported data-driven business decisions.
-* Developed interactive dashboards in Power BI and Tableau, automating reporting workflows and reducing manual reporting effort by 30%.
-* Optimized SQL queries and data processing pipelines, improving reporting efficiency and enabling faster access to business metrics.
  
 ## `Projects:`
 ### [Olist Store Performance and Trends](https://app.powerbi.com/view?r=eyJrIjoiYTM5MWFmNmItNzA2Ny00NjJmLThhYmItNjEwMjM1OTVkMGY1IiwidCI6IjBlZWZlYTY2LWY4YmYtNDhiNi1iMGI5LTM0Y2FjODgzNjYzYiJ9)
