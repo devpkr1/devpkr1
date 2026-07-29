@@ -260,7 +260,7 @@ Automated presentation generation tool using:
 
 ## `GitHub Profile Trophy`
 
-  [![GitHub Profile Trophies](https://vercel.app)](https://github.com/devpkr1/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=devpkr1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 **<h2>♡ Thank you for taking the time ♡**
