@@ -1,16 +1,19 @@
 name: GitHub Profile Summary Cards
 
 on:
-  schedule: # Runs automatically at midnight every day
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # Allows you to trigger it manually
+
+permissions:
+  contents: write # Explicitly grants write access to push the images
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate GitHub Profile Summary Cards
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Upgraded to v4 to support Node 24 compatibility
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
