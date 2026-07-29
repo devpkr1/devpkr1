@@ -221,11 +221,42 @@ Automated presentation generation tool using:
 
 ## `Github Status:` 
 
-<p align="center">
-[![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</p>
+<div align="center">
+  <!-- Top Row: Full Width Overview Card -->
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/0-profile-details.svg" width="100%" alt="Profile Details" style="margin-bottom: 10px;" />
+  </a>
+
+  <!-- Middle Row: Two Columns (Languages) -->
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none; padding: 5px;">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/1-repos-per-language.svg" width="100%" alt="Repos Per Language" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 5px;">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/2-most-commit-language.svg" width="100%" alt="Most Commit Language" />
+        </a>
+      </td>
+    </tr>
+    <!-- Bottom Row: Two Columns (Stats & Time) -->
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none; padding: 5px;">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/3-stats.svg" width="100%" alt="Stats" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 5px;">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/4-productive-time.svg" width="100%" alt="Productive Time" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## `GitHub Profile Trophy`
 
