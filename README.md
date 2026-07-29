@@ -30,13 +30,13 @@
 
 ## `Experience`
 
-### Data Analyst — <a href="https://truebluedesignsolutions.com/" target="blank">TrueBlue IT Consulting Services Pvt. Ltd.</a>
+### Data Analyst — <a href="https://truebluedesignsolutions.com/" target="blank">TrueBlue IT Consulting Services Pvt. Ltd.</a> | April 2024 – Present
 
 * Working on data-driven workflows, reporting, and analytics solutions
 * Supporting business decision-making through structured insights
 * Building analytical workflows and improving reporting efficiency
 
-### MIS Executive — <a href="https://truebluedesignsolutions.com/" target="blank">TrueBlue IT Consulting Services Pvt. Ltd.</a>
+### MIS Executive — <a href="https://truebluedesignsolutions.com/" target="blank">TrueBlue IT Consulting Services Pvt. Ltd.</a> | May 2023 – March 2024
 
 * Prepared daily, weekly, and monthly MIS reports using Advanced Excel and SQL.
 * Consolidated and validated employee, project, revenue, and operational data.
