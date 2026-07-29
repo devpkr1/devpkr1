@@ -1,21 +1,32 @@
-name: GitHub Profile Summary Cards
+name: GitHub Profile Summary Cards & Trophies
 
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to trigger it manually
+  workflow_dispatch: # Allows manual trigger
 
 permissions:
-  contents: write # Explicitly grants write access to push the images
+  contents: write # Grants permissions to save images to your repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Profile Summary Cards
+    name: Generate Profile Metrics
     steps:
-      - uses: actions/checkout@v4 # Upgraded to v4 to support Node 24 compatibility
+      - uses: actions/checkout@v4
+
+      # Step 1: Generate your current summary cards
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          username: devpkr1 # <--- Replace with your GitHub username
+          username: devpkr1
+
+      # Step 2: Generate your trophies (matches the dark theme in your image)
+      - uses: ryo-ma/github-profile-trophy-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+        env:
+          # Customize layout and theme to match your screenshot
+          ARGS: "--theme=flat --column=6 --margin-w=15" 
