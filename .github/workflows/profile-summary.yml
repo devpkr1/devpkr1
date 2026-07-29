@@ -3,10 +3,10 @@ name: GitHub Profile Summary Cards & Trophies
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Allows you to run it manually anytime
 
 permissions:
-  contents: write # Required to push files back to your branch
+  contents: write # Crucial for actions to commit files back to your repo
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Step 1: Generate your profile summary panels
+      # Step 1: Generate your profile summary status cards 
       - name: Generate Status Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -23,31 +23,11 @@ jobs:
         with:
           username: devpkr1
 
-      # Step 2: Use an isolated Node environment to fetch trophies
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      # Step 2: Generate the exact gaming trophies locally (No Vercel URLs)
+      - name: Generate Gaming Trophies
+        uses: soulteary/github-profile-trophy-action@v1.1.2
         with:
-          node-version: 20
-
-      # Step 3: Run a lightweight downloader script
-      - name: Build Gaming Trophies Natively
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          npm install -g @ryo-ma/github-profile-trophy || true
-          curl -s -H "Authorization: token $GITHUB_TOKEN" "https://vercel.app" -o trophy.svg
-          
-          # Fallback check: If the server returns an error, construct a placeholder to avoid breaking the build
-          if grep -q "503" trophy.svg || [ $(stat -c%s trophy.svg) -le 200 ]; then
-            echo "Server down. Compiling via local backup runner..."
-            curl -s "https://githubusercontent.com" -o trophy.svg || echo "<svg></svg>" > trophy.svg
-          fi
-
-      # Step 4: Safely commit changes
-      - name: Save Assets to Repo
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add trophy.svg
-          git diff-index --quiet HEAD || git commit -m "Synchronize profile cards and trophies"
-          git push origin main
+          username: devpkr1
+          theme: darkhub
+          column: 6
+          output: trophy.svg
