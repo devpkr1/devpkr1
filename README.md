@@ -220,18 +220,10 @@ Automated presentation generation tool using:
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 ## `Github Status:` 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devpkr1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devpkr1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpkr1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devpkr1&theme=tokyonight&hide_border=true"/>
-</p>
+[![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/devpkr1/devpkr1/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## `GitHub Profile Trophy`
 
